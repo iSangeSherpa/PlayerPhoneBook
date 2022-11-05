@@ -31,3 +31,10 @@ class TeamDataSource {
         teams[indexPath.row]
     }
 }
+
+
+//struct TeamData: Codable {
+//    var team_name: String
+//    var rating: Int
+//    var players: [Player]
+//}

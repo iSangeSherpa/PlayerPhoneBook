@@ -21,6 +21,7 @@
 		50A560452906C7FB00F9DE32 /* TeamCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50A560442906C7FB00F9DE32 /* TeamCell.swift */; };
 		50A560472906C8C800F9DE32 /* TeamListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50A560462906C8C800F9DE32 /* TeamListTableViewController.swift */; };
 		50A5604B2906D3BF00F9DE32 /* PlayerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50A5604A2906D3BF00F9DE32 /* PlayerCell.swift */; };
+		50D447D9290BE01F0060CF13 /* DataLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50D447D8290BE01F0060CF13 /* DataLoader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		50A560442906C7FB00F9DE32 /* TeamCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamCell.swift; sourceTree = "<group>"; };
 		50A560462906C8C800F9DE32 /* TeamListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamListTableViewController.swift; sourceTree = "<group>"; };
 		50A5604A2906D3BF00F9DE32 /* PlayerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerCell.swift; sourceTree = "<group>"; };
+		50D447D8290BE01F0060CF13 /* DataLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataLoader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +129,7 @@
 			children = (
 				50A560402906C4AF00F9DE32 /* PlayerDataSource.swift */,
 				50A560422906C66100F9DE32 /* TeamDataSource.swift */,
+				50D447D8290BE01F0060CF13 /* DataLoader.swift */,
 			);
 			path = "Data Source Files";
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 				50A5604B2906D3BF00F9DE32 /* PlayerCell.swift in Sources */,
 				50A560452906C7FB00F9DE32 /* TeamCell.swift in Sources */,
 				50A5603C2906C42A00F9DE32 /* Player.swift in Sources */,
+				50D447D9290BE01F0060CF13 /* DataLoader.swift in Sources */,
 				50A560432906C66100F9DE32 /* TeamDataSource.swift in Sources */,
 				50A560412906C4AF00F9DE32 /* PlayerDataSource.swift in Sources */,
 				507F360B290668EA00E73B30 /* SceneDelegate.swift in Sources */,
